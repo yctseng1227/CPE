@@ -1,7 +1,7 @@
 /*==========================================
 UVa10056 - What is the Probability?
 ============================================
-Completion Date: 105/02/16	by Geneyozakura
+Completion Date: 105/02/16   by Geneyozakura
 ==========================================*/
 #include <iostream>
 #include <cmath>
@@ -9,12 +9,12 @@ Completion Date: 105/02/16	by Geneyozakura
 using namespace std;
 int main()
 {
-int iCase;					//儲存測資個數
+int iCase;			//儲存測資個數
 int iPlayerQuantity;		//儲存參加者的數量
 float fDiceProbability;		//儲存遊戲設定的骰子機率
-int iPlayerSerial;			//儲存指定的第N位玩家
+int iPlayerSerial;		//儲存指定的第N位玩家
 float fWinProbability;		//儲存第N位玩家獲勝的機率
-int i;						//迴圈變數
+int i;				//迴圈變數
 
 //輸入測資個數
 cin >> iCase;
