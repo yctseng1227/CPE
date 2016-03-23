@@ -8,14 +8,14 @@ Completion Date: 105/01/24	by Geneyozakura
 using namespace std;
 int main()
 {
-int iCase;				//儲存輸入的測資個數
+int iCase;			//儲存輸入的測資個數
 int iRelative;			//儲存輸入的親戚個數
 int iStreet[500];		//儲存各親戚所居住的街道號碼
 int iVitoHouse;			//儲存Vito理想中居住的街道號碼
-int iMiniDistanceSum;	//儲存Vito與各親戚的距離總和
-int i;					//迴圈變數
-int j;					//迴圈變數
-int k;					//迴圈變數
+int iMiniDistanceSum;		//儲存Vito與各親戚的距離總和
+int i;				//迴圈變數
+int j;				//迴圈變數
+int k;				//迴圈變數
 
 //輸入測資個數
 cin >> iCase;
