@@ -1,22 +1,22 @@
 /*==========================================
 UVa11349 - Symmetric Matrix
 ============================================
-Completion Date: 105/02/11	by Geneyozakura
+Completion Date: 105/02/11   by Geneyozakura
 ==========================================*/
 #include <iostream>
 #include <string>
 using namespace std;
 int main()
 {
-int iCase;					//儲存測資個數
+int iCase;			//儲存測資個數
 int iMatrix[100][100];		//儲存陣列
-char cN;					//儲存題意要求的"N"字母
-char cEqual;				//儲存題意要求的"="符號
-int iDimension;				//儲存數入陣列的長寬大小
-int i;						//迴圈變數
-int j;						//迴圈變數
-int iNumber;				//儲存測資編號
-bool bSymmetric;			//判斷是否為Symmetric
+char cN;			//儲存題意要求的"N"字母
+char cEqual;			//儲存題意要求的"="符號
+int iDimension;			//儲存數入陣列的長寬大小
+int i;				//迴圈變數
+int j;				//迴圈變數
+int iNumber;			//儲存測資編號
+bool bSymmetric;		//判斷是否為Symmetric
 
 //輸入測資個數
 cin >> iCase;
