@@ -13,7 +13,7 @@ Completion Date: 105/01/22   by Geneyozakura
 
 #include <iostream>
 #include <string>
-#include <cmath>		//使用sqrt,pow,cos
+#include <cmath>			//使用sqrt,pow,cos
 #include <iomanip>		//使用fixed,setprecision
 using namespace std;
 
