@@ -1,20 +1,20 @@
 /*==========================================
 UVA11063 - B2-Sequence
 ============================================
-Completion Date: 105/01/18	by Geneyozakura
+Completion Date: 105/01/18   by Geneyozakura
 ==========================================*/
 #include <iostream>
 using namespace std;
 int main()
 {
-int iCase;				//配合題意輸出測資編號
+int iCase;			//配合題意輸出測資編號
 int iElementCount;		//儲存輸入資料個數
 int iElement[100];		//儲存輸入資料
-int iElementSum[100];	//儲存兩兩相加的值
-int i;					//迴圈變數
-int j;					//迴圈變數
+int iElementSum[100];		//儲存兩兩相加的值
+int i;				//迴圈變數
+int j;				//迴圈變數
 bool bB2_Sequence;		//判斷是否為B2-Sequence
-int iCount;				//迴圈內計算相加次數
+int iCount;			//迴圈內計算相加次數
 
 //編號初始化
 iCase = 0;
