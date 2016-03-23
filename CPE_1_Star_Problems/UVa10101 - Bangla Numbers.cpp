@@ -10,9 +10,9 @@ int main()
 {
 long long int lliInput;		//儲存輸入的數字
 long long int lliTemp;		//儲存暫存的輸入數字
-int iDigit;					//儲存輸入數字的位數
-int iNumber;				//儲存測資編號
-bool bZero;					//判斷是否需要輸出尾數0
+int iDigit;			//儲存輸入數字的位數
+int iNumber;			//儲存測資編號
+bool bZero;			//判斷是否需要輸出尾數0
 
 //測資編號初始化
 iNumber = 0;
