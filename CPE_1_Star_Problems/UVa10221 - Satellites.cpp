@@ -1,11 +1,11 @@
 /*==========================================
 UVa10221 - Satellites
 ============================================
-Completion Date: 105/01/22	by Geneyozakura
+Completion Date: 105/01/22   by Geneyozakura
 ==========================================*/
 
 //#define PI 3.1415926535	//原本使用的巨集
-#define R 6440 				//定義地球半徑為6440 (km)
+#define R 6440 			//定義地球半徑為6440 (km)
 
 /* 事後了解有數學常數巨集可以使用
    而使用其中的圓周率常數為 M_PI */
@@ -14,14 +14,14 @@ Completion Date: 105/01/22	by Geneyozakura
 #include <iostream>
 #include <string>
 #include <cmath>		//使用sqrt,pow,cos
-#include <iomanip>	//使用fixed,setprecision
+#include <iomanip>		//使用fixed,setprecision
 using namespace std;
 
 int main()
 {
-double dShift;				//儲存輸入的距離
-double dAngle;				//儲存輸入的角度
-double dRadians;			//儲存換算後的弧度
+double dShift;			//儲存輸入的距離
+double dAngle;			//儲存輸入的角度
+double dRadians;		//儲存換算後的弧度
 string sAngleMeasurement;	//儲存指定的角度度量衡
 double dArcDistance;		//儲存弧線長度
 double dChordDistance;		//儲存割線長度
