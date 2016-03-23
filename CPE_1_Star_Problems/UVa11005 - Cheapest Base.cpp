@@ -7,8 +7,8 @@ Completion Date: 105/03/19   by Geneyozakura
 using namespace std;
 int main()
 {
-int iCase;			//儲存測資個數
-int iCharactersCost[36];		//儲存0-9,A-Z之字元所需花費價格
+int iCase;				//儲存測資個數
+int iCharactersCost[36];			//儲存0-9,A-Z之字元所需花費價格
 int iQueryCase;				//儲存測試數字個數
 int iQueryNumber;			//儲存測試數字
 int iNumberCost[37];			//儲存轉換2-36進位所需的花費
