@@ -1,7 +1,7 @@
 /*==========================================
 UVa10193 - All You Need Is Love
 ============================================
-Completion Date: 105/01/26	by Geneyozakura
+Completion Date: 105/01/26   by Geneyozakura
 ==========================================*/
 #include <iostream>
 #include <string>
@@ -9,16 +9,16 @@ Completion Date: 105/01/26	by Geneyozakura
 using namespace std;
 int main()
 {
-int iCase;				//儲存輸入的測資個數
+int iCase;			//儲存輸入的測資個數
 string sBinString1;		//儲存輸入的第一條二進位字串
 string sBinString2;		//儲存輸入的第二條二進位字串
-int iBinString1Length;	//儲存第一條二進位字串的長度
-int iBinString2Length;	//儲存第二條二進位字串的長度
+int iBinString1Length;		//儲存第一條二進位字串的長度
+int iBinString2Length;		//儲存第二條二進位字串的長度
 int iDecNumber1;		//儲存第一條二進位字串轉換後的十進位整數
 int iDecNumber2;		//儲存第二條二進位字串轉換後的十進位整數
-int i;					//迴圈變數, 測資編號
-int j;					//迴圈變數
-bool bLove;				//判斷是否需要愛(!?)
+int i;				//迴圈變數, 測資編號
+int j;				//迴圈變數
+bool bLove;			//判斷是否需要愛(!?)
 
 cin >> iCase;
 for (i=1; i<=iCase; i++)
