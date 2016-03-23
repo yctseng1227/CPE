@@ -1,24 +1,24 @@
 /*==========================================
 UVA10908 - Largest Square
 ============================================
-Completion Date: 105/02/18	by Geneyozakura
+Completion Date: 105/02/18   by Geneyozakura
 ==========================================*/
 #include <iostream>
 using namespace std;
 int main()
 {
-int iCase;					//儲存測資個數
-int iRow;					//儲存輸入的橫列數
+int iCase;				//儲存測資個數
+int iRow;				//儲存輸入的橫列數
 int iColumn;				//儲存輸入的直行數
-int iLine;					//儲存輸入位置RC的行數
-char cCharacter[22][22];	//儲存輸入的字母
+int iLine;				//儲存輸入位置RC的行數
+char cCharacter[22][22];		//儲存輸入的字母
 int iLocationR;				//儲存輸入的位置R
 int iLocationC;				//儲存輸入的位置C
-int i;						//迴圈變數					
-int j;						//迴圈變數					
-int h;						//迴圈變數					
-int k;						//迴圈變數
-int iSquareMaxLength;		//儲存矩形的最大長度
+int i;					//迴圈變數					
+int j;					//迴圈變數					
+int h;					//迴圈變數					
+int k;					//迴圈變數
+int iSquareMaxLength;			//儲存矩形的最大長度
 bool bLimitLength;			//判斷是否已經為最大長度極限
 
 cin >> iCase;
