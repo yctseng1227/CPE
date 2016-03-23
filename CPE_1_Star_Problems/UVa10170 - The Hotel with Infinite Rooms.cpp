@@ -9,7 +9,7 @@ int main()
 {
 long long int lliCheckInNum;		//儲存入住的人數 
 long long int lliDay;			//儲存指定的天數 
-long long int lliTempCheckInNum;	//暫存當時入住的人數 
+long long int lliTempCheckInNum;		//暫存當時入住的人數 
 	
 while (cin >> lliCheckInNum >> lliDay)
 	{
