@@ -1,18 +1,18 @@
 /*==========================================
 UVa10642 - Can You Solve it?
 ============================================
-Completion Date: 105/02/15	by Geneyozakura
+Completion Date: 105/02/15   by Geneyozakura
 ==========================================*/
 #include <iostream>
 using namespace std;
 int main()
 {
-int iCase;					//儲存測資個數
-int iCoordinate[4];			//儲存兩個座標位置
-int iCount;					//儲存兩座標之間的座標數量
-int i;						//迴圈變數
-int j;						//迴圈變數
-int iNumber;				//儲存測資編號
+int iCase;			//儲存測資個數
+int iCoordinate[4];		//儲存兩個座標位置
+int iCount;			//儲存兩座標之間的座標數量
+int i;				//迴圈變數
+int j;				//迴圈變數
+int iNumber;			//儲存測資編號
 int iCoordinateBeginSum;	//儲存起始點座標總和
 int iCoordinateEndSum;		//儲存終末點座標總和
 
