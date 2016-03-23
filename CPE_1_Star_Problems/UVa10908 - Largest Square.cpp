@@ -11,7 +11,7 @@ int iCase;				//儲存測資個數
 int iRow;				//儲存輸入的橫列數
 int iColumn;				//儲存輸入的直行數
 int iLine;				//儲存輸入位置RC的行數
-char cCharacter[22][22];		//儲存輸入的字母
+char cCharacter[22][22];			//儲存輸入的字母
 int iLocationR;				//儲存輸入的位置R
 int iLocationC;				//儲存輸入的位置C
 int i;					//迴圈變數					
