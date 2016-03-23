@@ -14,7 +14,7 @@ bool bBoundary[50][50];				//判斷會掉出地圖外的位置
 int iPositionX;					//儲存機器人的X位置
 int iPositionY;					//儲存機器人的Y位置
 char cInitialOrientation;			//儲存機器人初始朝向的方位
-string sCommand;				//儲存輸入的字串指令
+string sCommand;					//儲存輸入的字串指令
 int iCommandLength;				//儲存輸入字串指令的長度
 char cOrientation[4] = {'N', 'W', 'S', 'E'};	//儲存四個方位的陣列
 int iIndex;					//儲存進行轉向時的陣列索引
