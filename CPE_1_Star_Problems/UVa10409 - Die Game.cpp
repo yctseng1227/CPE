@@ -1,17 +1,17 @@
 /*==========================================
 UVa10409 - Die Game
 ============================================
-Completion Date: 105/02/18	by Geneyozakura
+Completion Date: 105/02/18   by Geneyozakura
 ==========================================*/
 #include <iostream>
 #include <string>
 using namespace std;
 int main()
 {
-int iCommandQuantity;	//儲存輸入指令的個數
+int iCommandQuantity;		//儲存輸入指令的個數
 string sDirection;		//儲存輸入的指令
-int iTemp;				//儲存骰子中的數字
-int i;					//迴圈變數
+int iTemp;			//儲存骰子中的數字
+int i;				//迴圈變數
 
 while (cin >> iCommandQuantity)
 	{
