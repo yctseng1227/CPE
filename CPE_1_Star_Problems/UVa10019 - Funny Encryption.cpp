@@ -1,20 +1,20 @@
 /*==========================================
 UVa10019 - Funny Encryption
 ============================================
-Completion Date: 105/02/20	by Geneyozakura
+Completion Date: 105/02/20   by Geneyozakura
 ==========================================*/
 #include <iostream>
 using namespace std;
 int main()
 {
-int iCase;					//儲存 輸入的測資個數
+int iCase;				//儲存 輸入的測資個數
 int iEncryptNumber;			//儲存 要加密的數字
-int iTemp;					//暫存 要進行轉換用的數字
+int iTemp;				//暫存 要進行轉換用的數字
 int iTempArray[4];			//暫存 要進行轉換用的陣列
 int iDecCountOne;			//儲存 統計十進位轉二進位之"1"的個數
 int iHexCountOne;			//儲存 統計十六進位轉二進位之"1"的個數
-int iDigit;					//儲存 位數
-int i;						//迴圈變數
+int iDigit;				//儲存 位數
+int i;					//迴圈變數
 
 cin >> iCase;
 while (iCase--)
