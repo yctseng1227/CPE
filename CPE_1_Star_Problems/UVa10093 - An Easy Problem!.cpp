@@ -1,7 +1,7 @@
 /*==========================================
 UVa10093 - An Easy Problem!
 ============================================
-Completion Date: 105/03/19	by Geneyozakura
+Completion Date: 105/03/19   by Geneyozakura
 ==========================================*/
 #include <iostream>
 #include <string>
@@ -10,9 +10,9 @@ int main()
 {
 string sInput;			//儲存輸入測資
 int iInputLength;		//儲存輸入測資的長度
-int i;					//迴圈變數
-int j;					//迴圈變數
-int iSum;				//儲存各位數相加之總和
+int i;				//迴圈變數
+int j;				//迴圈變數
+int iSum;			//儲存各位數相加之總和
 bool bFound;			//判斷是否找到題目所求之進位
 
 while (cin >> sInput)
