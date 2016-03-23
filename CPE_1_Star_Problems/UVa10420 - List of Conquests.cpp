@@ -9,7 +9,7 @@ using namespace std;
 int main()
 {
 int iCase;			//儲存測資個數
-char cCountry[2000][10];	//儲存國家名
+char cCountry[2000][10];		//儲存國家名
 string sName;			//儲存人名
 int iCount;			//儲存國家出現次數
 int i;				//迴圈變數
