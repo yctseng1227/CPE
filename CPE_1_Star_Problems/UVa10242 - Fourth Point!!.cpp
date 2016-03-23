@@ -1,7 +1,7 @@
 /*==========================================
 UVa10242 - Fourth Point!! 
 ============================================
-Completion Date: 105/02/17	by Geneyozakura
+Completion Date: 105/02/17   by Geneyozakura
 ==========================================*/
 #include <iostream>
 #include <iomanip>
