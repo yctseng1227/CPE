@@ -10,7 +10,7 @@ int main()
 {
 int iCase;			//儲存輸入的測資個數
 int iLength;			//儲存輸入測資的長度	
-int iNumber[50];		//儲存輸入的測資數字
+int iNumber[50];			//儲存輸入的測資數字
 int iSwapCount;			//儲存交換的次數
 int i;				//迴圈變數
 int j;				//迴圈變數
