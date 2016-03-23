@@ -10,7 +10,7 @@ int main()
 int iCase;			//儲存輸入測資個數 
 int FibSequence[40];		//儲存費氏數列
 int iNumber;			//儲存輸入測資 
-int FibBase[40];		//儲存儲存以費氏數列為底的結果 
+int FibBase[40];			//儲存儲存以費氏數列為底的結果 
 int iTemp;			//暫存Number的值
 bool OneDetect;			//輸出時偵測1 
 int i;				//迴圈變數
