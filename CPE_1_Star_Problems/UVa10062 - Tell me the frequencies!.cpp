@@ -1,7 +1,7 @@
 /*==========================================
 UVa10062 - Tell me the frequencies!
 ============================================
-Completion Date: 105/01/23	by Geneyozakura
+Completion Date: 105/01/23   by Geneyozakura
 ==========================================*/
 #include <iostream>
 #include <string>
@@ -11,10 +11,10 @@ int main()
 string sInput;			//儲存輸入的字串
 int iInputLength;		//儲存輸入字串長度
 int iCount[96];			//儲存字元(ASCII 32~127)出現的次數
-int iOutput[1000][96];	//儲存輸出時編排的陣列 ([次數][字元])
-int i;					//迴圈變數
-int j;					//迴圈變數
-int k;					//陣列計次
+int iOutput[1000][96];		//儲存輸出時編排的陣列 ([次數][字元])
+int i;				//迴圈變數
+int j;				//迴圈變數
+int k;				//陣列計次
 bool bEndline;			//判斷是否需要換行
 
 //初始化
