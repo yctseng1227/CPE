@@ -1,7 +1,7 @@
 ﻿/*==========================================
 UVa10071 - Back to High School Physics
 ============================================
-Completion Date: 104/10/23	by Geneyozakura
+Completion Date: 104/10/23   by Geneyozakura
 ==========================================*/
 #include <iostream>
 using namespace std;
