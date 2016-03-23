@@ -1,25 +1,25 @@
 /*==========================================
 UVa11005 - Cheapest Base
 ============================================
-Completion Date: 105/03/19	by Geneyozakura
+Completion Date: 105/03/19   by Geneyozakura
 ==========================================*/
 #include <iostream>
 using namespace std;
 int main()
 {
-int iCase;					//儲存測資個數
-int iCharactersCost[36];	//儲存0-9,A-Z之字元所需花費價格
+int iCase;			//儲存測資個數
+int iCharactersCost[36];		//儲存0-9,A-Z之字元所需花費價格
 int iQueryCase;				//儲存測試數字個數
 int iQueryNumber;			//儲存測試數字
-int iNumberCost[37];		//儲存轉換2-36進位所需的花費
+int iNumberCost[37];			//儲存轉換2-36進位所需的花費
 int iCheapestCost;			//儲存最便宜的價格
-int iCheapestBase[37];		//儲存最便宜的進位
-int iTemp;					//儲存暫存測試數字
-int i;						//迴圈變數
-int j;						//迴圈變數
-int k;						//迴圈變數
-int m;						//陣列計次
-int iIndex;					//儲存測資輸出的編號
+int iCheapestBase[37];			//儲存最便宜的進位
+int iTemp;				//儲存暫存測試數字
+int i;					//迴圈變數
+int j;					//迴圈變數
+int k;					//迴圈變數
+int m;					//陣列計次
+int iIndex;				//儲存測資輸出的編號
 bool bSpace;				//判斷輸出是否需要空白
 bool bEndline;				//判斷輸出是否需要換行
 
