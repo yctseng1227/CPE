@@ -1,7 +1,7 @@
 /*==========================================
 UVa10101 - Bangla Numbers
 ============================================
-Completion Date: 105/02/05	by Geneyozakura
+Completion Date: 105/02/05   by Geneyozakura
 ==========================================*/
 #include <iostream>
 #include <iomanip>
