@@ -1,19 +1,19 @@
 /*==========================================
 UVa10235 - Simply Emirp
 ============================================
-Completion Date: 105/01/25	by Geneyozakura
+Completion Date: 105/01/25   by Geneyozakura
 ==========================================*/
 #include <iostream>
 #include <cmath>
 using namespace std;
 int main()
 {
-int iInput;				//儲存輸入的測資
+int iInput;			//儲存輸入的測資
 int iReverseInput;		//儲存測資反轉後的數字
-int iTemp;				//儲存反轉時的暫存數字
-int iReverse[10000];	//儲存反轉時的暫存陣列
-int iCount;				//陣列計次
-int i;					//迴圈變數
+int iTemp;			//儲存反轉時的暫存數字
+int iReverse[10000];		//儲存反轉時的暫存陣列
+int iCount;			//陣列計次
+int i;				//迴圈變數
 bool bIsPrime;			//判斷測資是否為質數
 bool bIsEmirp;			//判斷測資是否為反質數
 
