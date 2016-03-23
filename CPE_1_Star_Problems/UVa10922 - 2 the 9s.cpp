@@ -1,16 +1,16 @@
 /*==========================================
 UVa10922 - 2 the 9s
 ============================================
-Completion Date: 105/01/21	by Geneyozakura
+Completion Date: 105/01/21   by Geneyozakura
 ==========================================*/
 #include <iostream>
 #include <string>
 using namespace std;
 int main()
 {
-string sInput;		//儲存輸入的字串
-int iInputLength;	//儲存輸入字串的長度
-bool bNineDegree;	//判斷是否為9-degree
+string sInput;			//儲存輸入的字串
+int iInputLength;		//儲存輸入字串的長度
+bool bNineDegree;		//判斷是否為9-degree
 int iCount;			//儲存位數加總的次數
 int iSum;			//儲存位數加總的值
 int iTemp;			//暫存變數
