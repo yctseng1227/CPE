@@ -1,7 +1,7 @@
 /*==========================================
 UVa10420 - List of Conquests
 ============================================
-Completion Date: 105/02/23	by Geneyozakura
+Completion Date: 105/02/23   by Geneyozakura
 ==========================================*/
 #include <iostream>
 #include <string>
