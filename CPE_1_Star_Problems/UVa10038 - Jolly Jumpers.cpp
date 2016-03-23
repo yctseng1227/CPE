@@ -1,18 +1,18 @@
 /*==========================================
 UVa10038 - Jolly Jumpers 
 ============================================
-Completion Date: 105/01/18	by Geneyozakura
+Completion Date: 105/01/18   by Geneyozakura
 ==========================================*/
 #include <iostream>
 #include <cmath>
 using namespace std;
 int main()
 {
-int iCase;				//儲存數字的個數
+int iCase;			//儲存數字的個數
 int iInput[3000];		//儲存輸入的數字
-int iDifference[3000];	//儲存前後相減的數字
-int i;					//迴圈變數
-bool bSequence[3000];	//判斷相減數字的序列
+int iDifference[3000];		//儲存前後相減的數字
+int i;				//迴圈變數
+bool bSequence[3000];		//判斷相減數字的序列
 bool bJolly;			//判斷是否為Jolly
 
 
