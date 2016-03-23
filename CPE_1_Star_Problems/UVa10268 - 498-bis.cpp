@@ -1,7 +1,7 @@
 /*==========================================
 UVa10268 - 498-bis
 ============================================
-Completion Date: 105/01/31	by Geneyozakura
+Completion Date: 105/01/31   by Geneyozakura
 ==========================================*/
 #include <iostream>
 #include <string>
@@ -9,14 +9,14 @@ Completion Date: 105/01/31	by Geneyozakura
 using namespace std;
 int main()
 {
-int iXValue;		//儲存輸入的X值
-string sAList;		//儲存輸入的個各個A值字串
-int iAListLength;	//儲存輸入各個A值字串的長度
-int iAValue;		//儲存字串中各個A值(char) 轉換成的A值(int)
+int iXValue;			//儲存輸入的X值
+string sAList;			//儲存輸入的個各個A值字串
+int iAListLength;		//儲存輸入各個A值字串的長度
+int iAValue;			//儲存字串中各個A值(char) 轉換成的A值(int)
 int iCount;			//儲存統計A值得個數(題意中的N值)
-int iResult;		//儲存導數的結果
+int iResult;			//儲存導數的結果
 int i;				//迴圈變數
-bool bNegative;		//判斷A值是否為負數
+bool bNegative;			//判斷A值是否為負數
 
 while (cin >> iXValue)
 	{
