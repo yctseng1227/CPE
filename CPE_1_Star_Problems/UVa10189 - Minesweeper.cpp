@@ -1,19 +1,19 @@
 /*==========================================
 UVa10189 - Minesweeper 
 ============================================
-Completion Date: 105/01/23	by Geneyozakura
+Completion Date: 105/01/23   by Geneyozakura
 ==========================================*/
 #include <iostream>
 using namespace std;
 int main()
 {
 int iColumn;			//儲存輸入的直行數
-int iLine;				//儲存輸入的橫列數
-char cField[100][100];	//儲存範圍內的字元
-char cCount[100][100];  //儲存範圍內輸出的格式
-int iNumber;            //儲存測資編號
-int i;					//迴圈變數
-int j;					//迴圈變數
+int iLine;			//儲存輸入的橫列數
+char cField[100][100];		//儲存範圍內的字元
+char cCount[100][100]	  	//儲存範圍內輸出的格式
+int iNumber			//儲存測資編號
+int i;				//迴圈變數
+int j;				//迴圈變數
 bool bEndline;			//判斷是否需要換行
 
 //初始化
