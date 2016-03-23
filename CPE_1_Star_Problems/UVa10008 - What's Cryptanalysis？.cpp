@@ -1,21 +1,21 @@
 /*==========================================
 UVa10008 - What's Cryptanalysis?
 ============================================
-Completion Date: 105/01/31	by Geneyozakura
+Completion Date: 105/01/31   by Geneyozakura
 ==========================================*/
 #include <iostream>
 #include <string>
 using namespace std;
 int main()
 {
-int iCase;				//儲存輸入的測資個數
+int iCase;			//儲存輸入的測資個數
 string sInput;			//儲存輸入的測資字串
 int iInputlength;		//儲存輸入測資字串的長度
-int iLetterCount[26];	//儲存出現字母的個數
-int iMax;				//儲存出現最多字母的個數
-int i;					//迴圈變數
-int j;					//迴圈變數
-int k;					//迴圈變數
+int iLetterCount[26];		//儲存出現字母的個數
+int iMax;			//儲存出現最多字母的個數
+int i;				//迴圈變數
+int j;				//迴圈變數
+int k;				//迴圈變數
 
 //初始化
 for (i=0; i<26; i++)
