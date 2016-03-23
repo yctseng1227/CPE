@@ -8,15 +8,15 @@ Completion Date: 105/01/24	by Geneyozakura
 using namespace std;
 int main()
 {
-int iCase;					//儲存 測資個數
+int iCase;			//儲存 測資個數
 int iDreamNum[100000];		//儲存 夢到的數字
 int iCombinationLockCode;	//儲存 符合題目中算式的A值
-int iMiniSum;				//儲存 A值代入算式後的結果
-int iCount;					//儲存 夢到數字中代入算式後等於MiniSum的個數
-int iTest;					//儲存 其他值代入算式後的結果
-int iOtherCount;			//儲存 1~65536中代入算式後等於MiniSum的個數
-int i;						//迴圈變數
-int j;						//迴圈變數
+int iMiniSum;			//儲存 A值代入算式後的結果
+int iCount;			//儲存 夢到數字中代入算式後等於MiniSum的個數
+int iTest;			//儲存 其他值代入算式後的結果
+int iOtherCount;		//儲存 1~65536中代入算式後等於MiniSum的個數
+int i;				//迴圈變數
+int j;				//迴圈變數
 
 while (cin >> iCase)
 	{
