@@ -1,7 +1,7 @@
 /*==========================================
 UVa10057 - A mid-summer night’s dream 
 ============================================
-Completion Date: 105/01/24	by Geneyozakura
+Completion Date: 105/01/24   by Geneyozakura
 ==========================================*/
 #include <iostream>
 #include <cmath>
