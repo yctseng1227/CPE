@@ -10,8 +10,8 @@ using namespace std;
 int main()
 {
 double dLength;				// 輸入之正方形邊長
-double dStripedRegion;		// 題目中斜線的面積
-double dDottedRegion;		// 題目中點點的面積
+double dStripedRegion;			// 題目中斜線的面積
+double dDottedRegion;			// 題目中點點的面積
 double dRestRegion;			// 題目中方格的面積
 double dSquare;				// 整塊正方形面積
 double dCircle;				// 以正方形邊長作為半徑之圓面積
