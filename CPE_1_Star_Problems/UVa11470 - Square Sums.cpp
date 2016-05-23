@@ -7,13 +7,13 @@ Completion Date: 105/05/23
 using namespace std;
 int main()
 {
-int index = 1;			// 依題目顯示編號
-int iSize;				// 儲存 輸入的正方形邊長大小
+int index = 1;		// 依題目顯示編號
+int iSize;		// 儲存 輸入的正方形邊長大小
 int iSquare[10][10];	// 儲存 輸入正方形內的測資
-int iSum[5];			// 儲存 正方形的外圈和
-int i, j;				// 迴圈變數
-int iSeed;				// 計算用的種子
-int iLoop;				// 計算用迴圈次數
+int iSum[5];		// 儲存 正方形的外圈和
+int i, j;		// 迴圈變數
+int iSeed;		// 計算用的種子
+int iLoop;		// 計算用迴圈次數
 
 while (cin >> iSize)
 	{
