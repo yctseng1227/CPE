@@ -1,7 +1,7 @@
 # CPE
 Coding with "Collegiate Programming Examination" problem
 ##索引
-- [MCU#01/CPE#02 UVa10055](UVa10055.cpp) Hashmat the Brave Warrior
+- [MCU#01/CPE#02 UVa10055](CPE_1_Star_Problems/UVa10055 - Hashmat the Brave Warrior.cpp) Hashmat the Brave Warrior
 - [MCU#02/CPE#19 UVa10783](UVa10783.cpp) Odd Sum
 - MCU#03/CPE#20 UVa10812
 - MCU#04/CPE#24 UVa10071
