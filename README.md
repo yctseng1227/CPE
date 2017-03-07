@@ -1,6 +1,5 @@
 # CPE
 Coding with "Collegiate Programming Examination" problem
-#銘傳大學 UVa 闖關
 ##索引
 - [MCU#01/CPE#02 UVa10055](UVa10055.cpp) Hashmat the Brave Warrior
 - [MCU#02/CPE#19 UVa10783](UVa10783.cpp) Odd Sum
