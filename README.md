@@ -18,34 +18,34 @@ Coding with "Collegiate Programming Examination" problem
 - [MCU#15/CPE#11 UVa10252](CPE_1_Star_Problems/UVa10252 - Common Permutation.cpp) Common Permutation
 - [MCU#16/CPE#13 UVa00272](CPE_1_Star_Problems/UVa00272 - TeX Quotes.cpp) TeX Quotes
 - [MCU#17/CPE#26 UVa00948](CPE_1_Star_Problems/UVa00948 - Fibonaccimal Base.cpp) Fibonaccimal Base
-- [MCU#18/CPE#15 UVa10038](CPE_1_Star_Problems/)
-- [MCU#19/CPE#23 UVa11063](CPE_1_Star_Problems/)
-- [MCU#20/CPE#30 UVa10050](CPE_1_Star_Problems/)
-- [MCU#21/CPE#34 UVa10922](CPE_1_Star_Problems/)
-- [MCU#22/CPE#37 UVa10221](CPE_1_Star_Problems/)
-- [MCU#23/CPE#41 UVa10062](CPE_1_Star_Problems/)
-- [MCU#24/CPE#44 UVa10189](CPE_1_Star_Problems/)
-- [MCU#25/CPE#01 UVa10041](UVa10041.cpp) Vito's Family
-- [MCU#26/CPE#40 UVa10057](CPE_1_Star_Problems/)
-- [MCU#27/CPE#10 UVa11332](CPE_1_Star_Problems/)
-- [MCU#28/CPE#33 UVa10235](CPE_1_Star_Problems/)
-- [MCU#29/CPE#35 UVa11417](CPE_1_Star_Problems/)
-- [MCU#30/CPE#31 UVa10193](CPE_1_Star_Problems/)
-- [MCU#31/CPE#18 UVa10268](CPE_1_Star_Problems/)
+- [MCU#18/CPE#15 UVa10038](CPE_1_Star_Problems/UVa10038 - Jolly Jumpers.cpp) Jolly Jumpers
+- [MCU#19/CPE#23 UVa11063](CPE_1_Star_Problems/UVa11063 - B2-Sequence .cpp) B2-Sequence
+- [MCU#20/CPE#30 UVa10050](CPE_1_Star_Problems/UVa10050 - Hartals.cpp) Hartals
+- [MCU#21/CPE#34 UVa10922](CPE_1_Star_Problems/UVa10922 - 2 the 9s.cpp) 2 the 9s
+- [MCU#22/CPE#37 UVa10221](CPE_1_Star_Problems/UVa10221 - Satellites.cpp) Satellites
+- [MCU#23/CPE#41 UVa10062](CPE_1_Star_Problems/UVa10062 - Tell me the frequencies!.cpp) Tell me the frequencies!
+- [MCU#24/CPE#44 UVa10189](CPE_1_Star_Problems/UVa10189 - Minesweeper.cpp) Minesweeper
+- [MCU#25/CPE#01 UVa10041](CPE_1_Star_Problems/UVa10041 - Vito's family.cpp) Vito's family
+- [MCU#26/CPE#40 UVa10057](CPE_1_Star_Problems/UVa10057 - A mid-summer night's dream.cpp) A mid-summer night's dream
+- [MCU#27/CPE#10 UVa11332](CPE_1_Star_Problems/UVa11332 - Summing Digits.cpp) Summing Digits
+- [MCU#28/CPE#33 UVa10235](CPE_1_Star_Problems/UVa10235 - Simply Emirp.cpp) Simply Emirp
+- [MCU#29/CPE#35 UVa11417](CPE_1_Star_Problems/UVa11417 - GCD.cpp) GCD
+- [MCU#30/CPE#31 UVa10193](CPE_1_Star_Problems/UVa10193 - All You Need Is Love.cpp) All You Need Is Love
+- [MCU#31/CPE#18 UVa10268](CPE_1_Star_Problems/UVa10268 - 498-bis.cpp) 498-bis
 - [MCU#32/CPE#08 UVa10008](CPE_1_Star_Problems/UVa10008 - What's Cryptanalysis？.cpp) What's Cryptanalysis？
 - [MCU#33/CPE#42 UVa00299](CPE_1_Star_Problems/UVa00299 - Train Swapping.cpp) Train Swapping
-- [MCU#34/CPE#06 UVa10101](CPE_1_Star_Problems/)
-- [MCU#35/CPE#21 UVa11349](CPE_1_Star_Problems/)
-- [MCU#36/CPE#38 UVa10642](CPE_1_Star_Problems/)
-- [MCU#37/CPE#16 UVa10056](CPE_1_Star_Problems/)
-- [MCU#38/CPE#39 UVa10242](CPE_1_Star_Problems/)
-- [MCU#39/CPE#45 UVa10409](CPE_1_Star_Problems/)
-- [MCU#40/CPE#36 UVa10908](CPE_1_Star_Problems/)
+- [MCU#34/CPE#06 UVa10101](CPE_1_Star_Problems/UVa10101 - Bangla Numbers.cpp) Bangla Numbers
+- [MCU#35/CPE#21 UVa11349](CPE_1_Star_Problems/UVa11349 - Symmetric Matrix.cpp) Symmetric Matrix
+- [MCU#36/CPE#38 UVa10642](CPE_1_Star_Problems/UVa10642 - Can You Solve it？.cpp) Can You Solve it？
+- [MCU#37/CPE#16 UVa10056](CPE_1_Star_Problems/UVa10056 - What is the Probability？.cpp) What is the Probability？
+- [MCU#38/CPE#39 UVa10242](CPE_1_Star_Problems/UVa10242 - Fourth Point!!.cpp) Fourth Point!!
+- [MCU#39/CPE#45 UVa10409](CPE_1_Star_Problems/UVa10409 - Die Game.cpp) Die Game
+- [MCU#40/CPE#36 UVa10908](CPE_1_Star_Problems/UVa10908 - Largest Square.cpp) Largest Square
 - [MCU#41/CPE#27 UVa10019](CPE_1_Star_Problems/UVa10019 - Funny Encryption.cpp) Funny Encryption
 - [MCU#42/CPE#12 UVa00490](CPE_1_Star_Problems/UVa00490 - Rotating Sentences.cpp) Rotating Sentences
-- [MCU#43/CPE#07 UVa10420](CPE_1_Star_Problems/)
+- [MCU#43/CPE#07 UVa10420](CPE_1_Star_Problems/UVa10420 - List of Conquests.cpp) List of Conquests
 - [MCU#44/CPE#43 UVa10226](CPE_1_Star_Problems/)
 - [MCU#45/CPE#47 UVa00118](CPE_1_Star_Problems/UVa00118 - Mutant Flatworld Explorers.cpp) Mutant Flatworld Explorers
-- [MCU#46/CPE#46 UVa10415](CPE_1_Star_Problems/)
-- [MCU#47/CPE#29 UVa11005](CPE_1_Star_Problems/)
-- [MCU#48/CPE#25 UVa10093](CPE_1_Star_Problems/)
+- [MCU#46/CPE#46 UVa10415](CPE_1_Star_Problems/UVa10415 - Eb Alto Saxophone Player.cpp) Eb Alto Saxophone Player
+- [MCU#47/CPE#29 UVa11005](CPE_1_Star_Problems/UVa11005 - Cheapest Base.cpp) Cheapest Base
+- [MCU#48/CPE#25 UVa10093](CPE_1_Star_Problems/UVa10093 - An Easy Problem!.cpp) An Easy Problem!
