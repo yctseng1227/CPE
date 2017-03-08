@@ -44,7 +44,7 @@ Coding with "Collegiate Programming Examination" problem
 - [MCU#41/CPE#27 UVa10019](CPE_1_Star_Problems/UVa10019 - Funny Encryption.cpp) Funny Encryption
 - [MCU#42/CPE#12 UVa00490](CPE_1_Star_Problems/UVa00490 - Rotating Sentences.cpp) Rotating Sentences
 - [MCU#43/CPE#07 UVa10420](CPE_1_Star_Problems/UVa10420 - List of Conquests.cpp) List of Conquests
-- [MCU#44/CPE#43 UVa10226](CPE_1_Star_Problems/)
+- [MCU#44/CPE#43 UVa10226](CPE_1_Star_Problems/UVa10226 - Hardwood Species.cpp) Hardwood Species
 - [MCU#45/CPE#47 UVa00118](CPE_1_Star_Problems/UVa00118 - Mutant Flatworld Explorers.cpp) Mutant Flatworld Explorers
 - [MCU#46/CPE#46 UVa10415](CPE_1_Star_Problems/UVa10415 - Eb Alto Saxophone Player.cpp) Eb Alto Saxophone Player
 - [MCU#47/CPE#29 UVa11005](CPE_1_Star_Problems/UVa11005 - Cheapest Base.cpp) Cheapest Base
