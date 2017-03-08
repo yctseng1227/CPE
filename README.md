@@ -2,20 +2,20 @@
 Coding with "Collegiate Programming Examination" problem
 ##索引
 - [MCU#01/CPE#02 UVa10055](CPE_1_Star_Problems/UVa10055 - Hashmat the Brave Warrior.cpp) Hashmat the Brave Warrior
-- [MCU#02/CPE#19 UVa10783](CPE_1_Star_Problems/) Odd Sum
-- [MCU#03/CPE#20 UVa10812](CPE_1_Star_Problems/)
-- [MCU#04/CPE#24 UVa10071](CPE_1_Star_Problems/)
-- [MCU#05/CPE#48 UVa11150](CPE_1_Star_Problems/)
-- [MCU#06/CPE#32 UVa10190](CPE_1_Star_Problems/)
-- [MCU#07/CPE#22 UVa11461](CPE_1_Star_Problems/)
+- [MCU#02/CPE#19 UVa10783](CPE_1_Star_Problems/UVa10783 - Odd Sum.cpp) Odd Sum
+- [MCU#03/CPE#20 UVa10812](CPE_1_Star_Problems/UVa10812 - Beat the Spread.cpp) Beat the Spread
+- [MCU#04/CPE#24 UVa10071](CPE_1_Star_Problems/UVa10071 - Back to High School Physics.cpp) Back to High School Physics
+- [MCU#05/CPE#48 UVa11150](CPE_1_Star_Problems/UVa11150 - Cola.cpp) Cola
+- [MCU#06/CPE#32 UVa10190](CPE_1_Star_Problems/UVa10190 - Divide, But Not Quite Conquer!.cpp) Divide, But Not Quite Conquer!
+- [MCU#07/CPE#22 UVa11461](CPE_1_Star_Problems/UVa11461 - Square Numbers.cpp) Square Numbers
 - [MCU#08/CPE#04 UVa00100](CPE_1_Star_Problems/UVa00100 - The 3n + 1 problem.cpp) The 3n + 1 problem
-- [MCU#09/CPE#28 UVa10931](CPE_1_Star_Problems/)
-- [MCU#10/CPE#14 UVa12019](CPE_1_Star_Problems/)
-- [MCU#11/CPE#03 UVa10035](UVa10035.cpp) Primary Arithmetic
-- [MCU#12/CPE#17 UVa10170](CPE_1_Star_Problems/)
-- [MCU#13/CPE#05 UVa10929](UVa10929.cpp) You can say 11
-- [MCU#14/CPE#09 UVa10222](CPE_1_Star_Problems/)
-- [MCU#15/CPE#11 UVa10252](CPE_1_Star_Problems/)
+- [MCU#09/CPE#28 UVa10931](CPE_1_Star_Problems/UVa10931 - Parity.cpp) Parity
+- [MCU#10/CPE#14 UVa12019](CPE_1_Star_Problems/UVa12019 - Doom's Day Algorithm.cpp) Doom's Day Algorithm
+- [MCU#11/CPE#03 UVa10035](CPE_1_Star_Problems/UVa10035 - Primary Arithmetic.cpp) Primary Arithmetic
+- [MCU#12/CPE#17 UVa10170](CPE_1_Star_Problems/UVa10170 - The Hotel with Infinite Rooms.cpp) The Hotel with Infinite Rooms.cpp
+- [MCU#13/CPE#05 UVa10929](CPE_1_Star_Problems/UVa10929 - You can say 11.cpp) You can say 11
+- [MCU#14/CPE#09 UVa10222](CPE_1_Star_Problems/UVa10222 - Decode the Mad man.cpp) Decode the Mad man
+- [MCU#15/CPE#11 UVa10252](CPE_1_Star_Problems/UVa10252 - Common Permutation.cpp) Common Permutation
 - [MCU#16/CPE#13 UVa00272](CPE_1_Star_Problems/UVa00272 - TeX Quotes.cpp) TeX Quotes
 - [MCU#17/CPE#26 UVa00948](CPE_1_Star_Problems/UVa00948 - Fibonaccimal Base.cpp) Fibonaccimal Base
 - [MCU#18/CPE#15 UVa10038](CPE_1_Star_Problems/)
@@ -32,7 +32,7 @@ Coding with "Collegiate Programming Examination" problem
 - [MCU#29/CPE#35 UVa11417](CPE_1_Star_Problems/)
 - [MCU#30/CPE#31 UVa10193](CPE_1_Star_Problems/)
 - [MCU#31/CPE#18 UVa10268](CPE_1_Star_Problems/)
-- [MCU#32/CPE#08 UVa10008](CPE_1_Star_Problems/)
+- [MCU#32/CPE#08 UVa10008](CPE_1_Star_Problems/UVa10008 - What's Cryptanalysis？.cpp) What's Cryptanalysis？
 - [MCU#33/CPE#42 UVa00299](CPE_1_Star_Problems/UVa00299 - Train Swapping.cpp) Train Swapping
 - [MCU#34/CPE#06 UVa10101](CPE_1_Star_Problems/)
 - [MCU#35/CPE#21 UVa11349](CPE_1_Star_Problems/)
@@ -41,7 +41,7 @@ Coding with "Collegiate Programming Examination" problem
 - [MCU#38/CPE#39 UVa10242](CPE_1_Star_Problems/)
 - [MCU#39/CPE#45 UVa10409](CPE_1_Star_Problems/)
 - [MCU#40/CPE#36 UVa10908](CPE_1_Star_Problems/)
-- [MCU#41/CPE#27 UVa10019](CPE_1_Star_Problems/)
+- [MCU#41/CPE#27 UVa10019](CPE_1_Star_Problems/UVa10019 - Funny Encryption.cpp) Funny Encryption
 - [MCU#42/CPE#12 UVa00490](CPE_1_Star_Problems/UVa00490 - Rotating Sentences.cpp) Rotating Sentences
 - [MCU#43/CPE#07 UVa10420](CPE_1_Star_Problems/)
 - [MCU#44/CPE#43 UVa10226](CPE_1_Star_Problems/)
