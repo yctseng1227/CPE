@@ -2,50 +2,50 @@
 Coding with "Collegiate Programming Examination" problem
 ##索引
 - [MCU#01/CPE#02 UVa10055](CPE_1_Star_Problems/UVa10055 - Hashmat the Brave Warrior.cpp) Hashmat the Brave Warrior
-- [MCU#02/CPE#19 UVa10783](UVa10783.cpp) Odd Sum
-- MCU#03/CPE#20 UVa10812
-- MCU#04/CPE#24 UVa10071
-- MCU#05/CPE#48 UVa11150
-- MCU#06/CPE#32 UVa10190
-- MCU#07/CPE#22 UVa11461
-- [MCU#08/CPE#04 UVa00100](UVa00100.cpp) The 3n + 1 problem
-- MCU#09/CPE#28 UVa10931
-- MCU#10/CPE#14 UVa12019
+- [MCU#02/CPE#19 UVa10783](CPE_1_Star_Problems/) Odd Sum
+- [MCU#03/CPE#20 UVa10812](CPE_1_Star_Problems/)
+- [MCU#04/CPE#24 UVa10071](CPE_1_Star_Problems/)
+- [MCU#05/CPE#48 UVa11150](CPE_1_Star_Problems/)
+- [MCU#06/CPE#32 UVa10190](CPE_1_Star_Problems/)
+- [MCU#07/CPE#22 UVa11461](CPE_1_Star_Problems/)
+- [MCU#08/CPE#04 UVa00100](CPE_1_Star_Problems/UVa00100 - The 3n + 1 problem.cpp) The 3n + 1 problem
+- [MCU#09/CPE#28 UVa10931](CPE_1_Star_Problems/)
+- [MCU#10/CPE#14 UVa12019](CPE_1_Star_Problems/)
 - [MCU#11/CPE#03 UVa10035](UVa10035.cpp) Primary Arithmetic
-- MCU#12/CPE#17 UVa10170
+- [MCU#12/CPE#17 UVa10170](CPE_1_Star_Problems/)
 - [MCU#13/CPE#05 UVa10929](UVa10929.cpp) You can say 11
-- MCU#14/CPE#09 UVa10222
-- MCU#15/CPE#11 UVa10252
-- MCU#16/CPE#13 UVa00272
-- MCU#17/CPE#26 UVa00948
-- MCU#18/CPE#15 UVa10038
-- MCU#19/CPE#23 UVa11063
-- MCU#20/CPE#30 UVa10050
-- MCU#21/CPE#34 UVa10922
-- MCU#22/CPE#37 UVa10221
-- MCU#23/CPE#41 UVa10062
-- MCU#24/CPE#44 UVa10189
+- [MCU#14/CPE#09 UVa10222](CPE_1_Star_Problems/)
+- [MCU#15/CPE#11 UVa10252](CPE_1_Star_Problems/)
+- [MCU#16/CPE#13 UVa00272](CPE_1_Star_Problems/UVa00272 - TeX Quotes.cpp) TeX Quotes
+- [MCU#17/CPE#26 UVa00948](CPE_1_Star_Problems/UVa00948 - Fibonaccimal Base.cpp) Fibonaccimal Base
+- [MCU#18/CPE#15 UVa10038](CPE_1_Star_Problems/)
+- [MCU#19/CPE#23 UVa11063](CPE_1_Star_Problems/)
+- [MCU#20/CPE#30 UVa10050](CPE_1_Star_Problems/)
+- [MCU#21/CPE#34 UVa10922](CPE_1_Star_Problems/)
+- [MCU#22/CPE#37 UVa10221](CPE_1_Star_Problems/)
+- [MCU#23/CPE#41 UVa10062](CPE_1_Star_Problems/)
+- [MCU#24/CPE#44 UVa10189](CPE_1_Star_Problems/)
 - [MCU#25/CPE#01 UVa10041](UVa10041.cpp) Vito's Family
-- MCU#26/CPE#40 UVa10057
-- MCU#27/CPE#10 UVa11332
-- MCU#28/CPE#33 UVa10235
-- MCU#29/CPE#35 UVa11417
-- MCU#30/CPE#31 UVa10193
-- MCU#31/CPE#18 UVa10268
-- MCU#32/CPE#08 UVa10008
-- MCU#33/CPE#42 UVa00299
-- MCU#34/CPE#06 UVa10101
-- MCU#35/CPE#21 UVa11349
-- MCU#36/CPE#38 UVa10642
-- MCU#37/CPE#16 UVa10056
-- MCU#38/CPE#39 UVa10242
-- MCU#39/CPE#45 UVa10409
-- MCU#40/CPE#36 UVa10908
-- MCU#41/CPE#27 UVa10019
-- MCU#42/CPE#12 UVa00490
-- MCU#43/CPE#07 UVa10420
-- MCU#44/CPE#43 UVa10226
-- MCU#45/CPE#47 UVa00118
-- MCU#46/CPE#46 UVa10415
-- MCU#47/CPE#29 UVa11005
-- MCU#48/CPE#25 UVa10093
+- [MCU#26/CPE#40 UVa10057](CPE_1_Star_Problems/)
+- [MCU#27/CPE#10 UVa11332](CPE_1_Star_Problems/)
+- [MCU#28/CPE#33 UVa10235](CPE_1_Star_Problems/)
+- [MCU#29/CPE#35 UVa11417](CPE_1_Star_Problems/)
+- [MCU#30/CPE#31 UVa10193](CPE_1_Star_Problems/)
+- [MCU#31/CPE#18 UVa10268](CPE_1_Star_Problems/)
+- [MCU#32/CPE#08 UVa10008](CPE_1_Star_Problems/)
+- [MCU#33/CPE#42 UVa00299](CPE_1_Star_Problems/UVa00299 - Train Swapping.cpp) Train Swapping
+- [MCU#34/CPE#06 UVa10101](CPE_1_Star_Problems/)
+- [MCU#35/CPE#21 UVa11349](CPE_1_Star_Problems/)
+- [MCU#36/CPE#38 UVa10642](CPE_1_Star_Problems/)
+- [MCU#37/CPE#16 UVa10056](CPE_1_Star_Problems/)
+- [MCU#38/CPE#39 UVa10242](CPE_1_Star_Problems/)
+- [MCU#39/CPE#45 UVa10409](CPE_1_Star_Problems/)
+- [MCU#40/CPE#36 UVa10908](CPE_1_Star_Problems/)
+- [MCU#41/CPE#27 UVa10019](CPE_1_Star_Problems/)
+- [MCU#42/CPE#12 UVa00490](CPE_1_Star_Problems/UVa00490 - Rotating Sentences.cpp) Rotating Sentences
+- [MCU#43/CPE#07 UVa10420](CPE_1_Star_Problems/)
+- [MCU#44/CPE#43 UVa10226](CPE_1_Star_Problems/)
+- [MCU#45/CPE#47 UVa00118](CPE_1_Star_Problems/UVa00118 - Mutant Flatworld Explorers.cpp) Mutant Flatworld Explorers
+- [MCU#46/CPE#46 UVa10415](CPE_1_Star_Problems/)
+- [MCU#47/CPE#29 UVa11005](CPE_1_Star_Problems/)
+- [MCU#48/CPE#25 UVa10093](CPE_1_Star_Problems/)
